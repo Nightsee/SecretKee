@@ -1,0 +1,14 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "SecretKee",
+  "outputfilename": "SecretKee",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "wailsjsdir": "frontend/wailsjs",
+  "author": {
+    "name": "Nightsee",
+    "email": "younes.naitsi.2002e@gmail.com"
+  }
+}
